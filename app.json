@@ -1,8 +1,8 @@
 {
     "name": "AnimeDex",
     "description": "Watch Animes Online For Free",
-    "repository": "https://github.com/TechShreyash/AnimeDex",
-    "logo": "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/img/favicon.ico",
+    "repository": "https://github.com/omega-scans/ani-scraper",
+    "logo": "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/img/favicon.ico",
     "keywords": [
         "python",
         "flask website",
@@ -21,7 +21,7 @@
     "env": {
         "API_KEY": {
             "description": "Your TechZApi Key, Get from https://telegram.me/TechZApiBot",
-            "value": "",
+            "value": "YQVQVY",
             "required": true
         }
     }

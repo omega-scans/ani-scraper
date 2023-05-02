@@ -1,13 +1,13 @@
 import requests
 
 urls = [
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/css/anime.min.css",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/css/episode.min.css",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/css/home.min.css",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/css/search.min.css",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/video.css",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/js/home.min.js",
-    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scrape@main/static/js/player.min.js",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/css/anime.min.css",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/css/episode.min.css",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/css/home.min.css",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/css/search.min.css",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/video.css",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/js/home.min.js",
+    "https://cdn.jsdelivr.net/gh/omega-scans/ani-scraper@main/static/js/player.min.js",
 ]
 
 
