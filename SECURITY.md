@@ -9,6 +9,6 @@
 
 ## Reporting a Vulnerability
 
-Report Vulnerability To Us On Our Official Telegram Group https://t.me/TechZBots_Support
+Report Vulnerability To Official Telegram Group of the api https://t.me/TechZBots_Support
 
 Or Create A Issue In This Repo
