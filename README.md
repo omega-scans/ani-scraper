@@ -16,16 +16,3 @@
 
 <hr>
 
-### 📸 Screenshots
-
-<br>
-
-<img src="./screenshots/home.jpeg">
-
-<img src="./screenshots/search.jpeg">
-
-<img src="./screenshots/anime.jpeg">
-
-<img src="./screenshots/episode.png">
-
-<hr>
